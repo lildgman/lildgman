@@ -1,4 +1,7 @@
 # 👋 Welcome To lildgman`s Garage!
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{lildgman}?pet-id=649425358262886370" width="1000" height="120"/>
+</a>
 
 <!---
 lildgman/lildgman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +20,6 @@ Tools: IntelliJ, Git <br>
 <hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lildgman&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lildgman)](https://github.com/anuraghazra/github-readme-stats)<br>
+
 
 
