@@ -1,4 +1,4 @@
-# 👋 Welcome To lildgman`s Garage!
+# 그냥해
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{lildgman}?pet-id=649425358262886370" width="1000" height="120"/>
 </a>
@@ -12,10 +12,7 @@ Email: odg@kakao.com <br>
 Blog: https://odgman.tistory.com <br>
 
 <h2>Skills</h2>
-Front-End: HTML/CSS, Javascript, jQuery <br>
-Back-End: Java, Spring, SpringBoot <br>
-Database: PostgreSQL <br>
-Tools: IntelliJ, Git <br>
+Java, SpringBoot, JPA, Mybatis, MySQL Git, Github
 
 <hr>
 
