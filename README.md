@@ -8,7 +8,7 @@ lildgman/lildgman is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <h2>CONTACT ME</h2>
-Email: odg@kakao.com <br>
+Email: humanorc2357@gmail.com <br>
 Blog: https://odgman.tistory.com <br>
 
 <h2>Skills</h2>
