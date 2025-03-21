@@ -12,7 +12,7 @@ Email: humanorc2357@gmail.com <br>
 Blog: https://odgman.tistory.com <br>
 
 <h2>Skills</h2>
-Java, SpringBoot, JPA, Mybatis, MySQL Git, Github
+Java, SpringBoot, JPA, Mybatis, MySQL
 
 <hr>
 
